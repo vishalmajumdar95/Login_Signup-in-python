@@ -1,0 +1,16 @@
+{
+    "userinfo": [
+        {
+            "user_name": "Vishal Majumdar",
+            "user_phone_no.": "9582300883",
+            "user_email": "Vishalm20@navgurukul.org",
+            "user_password": "Vishal@11"
+        },
+        {
+            "user_name": "Muhammad Siddik Akbar",
+            "user_phone_no.": "9811073783",
+            "user_email": "Siddik20@navgurukul.org",
+            "user_password": "Siddik@12"
+        }
+    ]
+}
